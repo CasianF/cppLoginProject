@@ -9,7 +9,7 @@ int main() {
     menuManager menuManager;
     short int choice;
     int x;
-    cout < "Testing super-linter";
+    cout << "Testing super-linter";
     cout << "\t\t\t\t\t******| Contact Manager |******\n\n";
     cout << "\t\t\t\t\t      | 1.Add Contact   |\n";
     cout << "\t\t\t\t\t      | 2.Search Contact|\n";
