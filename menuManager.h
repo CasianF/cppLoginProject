@@ -16,7 +16,7 @@ class menuManager
 
         bool checkNumberLength(string nr) {
             if (nr.length() != 10) {
-                cout << "Phone nr. must contain 10 digits";
+                cout << "Phone nr. must contain 10 digits" << endl;
                 return false;
             }
             else
